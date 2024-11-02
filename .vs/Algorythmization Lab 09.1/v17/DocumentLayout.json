@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Algorythmization Lab 09.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7CBD58-51F1-4471-AB84-A4C78819BA4D}|Algorythmization Lab 09.1\\Algorythmization Lab 09.1.vcxproj|C:\\Users\\User\\source\\repos\\Algorythmization Lab 09.1\\Algorythmization Lab 09.1\\functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D7CBD58-51F1-4471-AB84-A4C78819BA4D}|Algorythmization Lab 09.1\\Algorythmization Lab 09.1.vcxproj|solutionrelative:Algorythmization Lab 09.1\\functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7CBD58-51F1-4471-AB84-A4C78819BA4D}|Algorythmization Lab 09.1\\Algorythmization Lab 09.1.vcxproj|C:\\Users\\User\\source\\repos\\Algorythmization Lab 09.1\\Algorythmization Lab 09.1\\functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D7CBD58-51F1-4471-AB84-A4C78819BA4D}|Algorythmization Lab 09.1\\Algorythmization Lab 09.1.vcxproj|solutionrelative:Algorythmization Lab 09.1\\functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7CBD58-51F1-4471-AB84-A4C78819BA4D}|Algorythmization Lab 09.1\\Algorythmization Lab 09.1.vcxproj|C:\\Users\\User\\source\\repos\\Algorythmization Lab 09.1\\Algorythmization Lab 09.1\\nsVar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D7CBD58-51F1-4471-AB84-A4C78819BA4D}|Algorythmization Lab 09.1\\Algorythmization Lab 09.1.vcxproj|solutionrelative:Algorythmization Lab 09.1\\nsVar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7CBD58-51F1-4471-AB84-A4C78819BA4D}|Algorythmization Lab 09.1\\Algorythmization Lab 09.1.vcxproj|C:\\Users\\User\\source\\repos\\Algorythmization Lab 09.1\\Algorythmization Lab 09.1\\nsVar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D7CBD58-51F1-4471-AB84-A4C78819BA4D}|Algorythmization Lab 09.1\\Algorythmization Lab 09.1.vcxproj|solutionrelative:Algorythmization Lab 09.1\\nsVar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7CBD58-51F1-4471-AB84-A4C78819BA4D}|Algorythmization Lab 09.1\\Algorythmization Lab 09.1.vcxproj|C:\\Users\\User\\source\\repos\\Algorythmization Lab 09.1\\Algorythmization Lab 09.1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D7CBD58-51F1-4471-AB84-A4C78819BA4D}|Algorythmization Lab 09.1\\Algorythmization Lab 09.1.vcxproj|solutionrelative:Algorythmization Lab 09.1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6101A6-7F5E-4F71-8993-6D1B99661208}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\User\\source\\repos\\Algorythmization Lab 09.1\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5A6101A6-7F5E-4F71-8993-6D1B99661208}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6101A6-7F5E-4F71-8993-6D1B99661208}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\User\\source\\repos\\Algorythmization Lab 09.1\\UnitTest1\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5A6101A6-7F5E-4F71-8993-6D1B99661208}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "nsVar.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Algorythmization Lab 09.1\\Algorythmization Lab 09.1\\nsVar.h",
+              "RelativeDocumentMoniker": "Algorythmization Lab 09.1\\nsVar.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Algorythmization Lab 09.1\\Algorythmization Lab 09.1\\nsVar.h",
+              "RelativeToolTip": "Algorythmization Lab 09.1\\nsVar.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-02T14:58:18.697Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "nsVar.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Algorythmization Lab 09.1\\Algorythmization Lab 09.1\\nsVar.cpp",
+              "RelativeDocumentMoniker": "Algorythmization Lab 09.1\\nsVar.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Algorythmization Lab 09.1\\Algorythmization Lab 09.1\\nsVar.cpp",
+              "RelativeToolTip": "Algorythmization Lab 09.1\\nsVar.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-02T15:01:25.144Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "functions.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Algorythmization Lab 09.1\\Algorythmization Lab 09.1\\functions.h",
+              "RelativeDocumentMoniker": "Algorythmization Lab 09.1\\functions.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Algorythmization Lab 09.1\\Algorythmization Lab 09.1\\functions.h",
+              "RelativeToolTip": "Algorythmization Lab 09.1\\functions.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-02T15:10:02.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "pch.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Algorythmization Lab 09.1\\UnitTest1\\pch.h",
+              "RelativeDocumentMoniker": "UnitTest1\\pch.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Algorythmization Lab 09.1\\UnitTest1\\pch.h",
+              "RelativeToolTip": "UnitTest1\\pch.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-02T16:10:20.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "functions.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Algorythmization Lab 09.1\\Algorythmization Lab 09.1\\functions.cpp",
+              "RelativeDocumentMoniker": "Algorythmization Lab 09.1\\functions.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Algorythmization Lab 09.1\\Algorythmization Lab 09.1\\functions.cpp",
+              "RelativeToolTip": "Algorythmization Lab 09.1\\functions.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-02T15:10:56.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Algorythmization Lab 09.1\\Algorythmization Lab 09.1\\Source.cpp",
+              "RelativeDocumentMoniker": "Algorythmization Lab 09.1\\Source.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Algorythmization Lab 09.1\\Algorythmization Lab 09.1\\Source.cpp",
+              "RelativeToolTip": "Algorythmization Lab 09.1\\Source.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAswBgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-02T14:49:39.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Algorythmization Lab 09.1\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Algorythmization Lab 09.1\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-02T15:48:41.375Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

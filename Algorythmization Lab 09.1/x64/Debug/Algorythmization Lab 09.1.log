@@ -1,0 +1,6 @@
+﻿  functions.cpp
+C:\Users\User\source\repos\Algorythmization Lab 09.1\Algorythmization Lab 09.1\functions.h(4,31): warning C4042: 'x': has bad storage class
+C:\Users\User\source\repos\Algorythmization Lab 09.1\Algorythmization Lab 09.1\functions.h(4,54): warning C4042: 'eps': has bad storage class
+C:\Users\User\source\repos\Algorythmization Lab 09.1\Algorythmization Lab 09.1\functions.h(5,38): warning C4042: 'x': has bad storage class
+C:\Users\User\source\repos\Algorythmization Lab 09.1\Algorythmization Lab 09.1\functions.h(5,58): warning C4042: 'n': has bad storage class
+  Algorythmization Lab 09.1.vcxproj -> C:\Users\User\source\repos\Algorythmization Lab 09.1\x64\Debug\Algorythmization Lab 09.1.exe
